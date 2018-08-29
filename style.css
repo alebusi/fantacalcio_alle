@@ -4,7 +4,9 @@
 .lista li {
   font-family: Arial;
   text-transform: uppercase;
-  font-size: 3em;
+  font-size: 5em;
+  font-width: bold;
+  letter-spacing: 2px;
   align: center;
   line-height: 6em;
  }
