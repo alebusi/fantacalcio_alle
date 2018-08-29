@@ -1,3 +1,6 @@
+.lista {
+   margin-left: 120px;
+}
 .lista li {
   font-family: Arial;
   text-transform: uppercase;
