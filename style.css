@@ -1,6 +1,6 @@
 .lista li {
   font-family: Arial;
-  letter-transform: uppercase;
+  text-transform: uppercase;
   font-size: 3em;
   align: center;
   line-height: 6em;
