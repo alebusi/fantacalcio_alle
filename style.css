@@ -9,6 +9,10 @@
     font-family: Arial;
 }
 
+.titolo {
+    background-color: red;
+}
+
 .lista {
    margin-left: 240px;
 }
