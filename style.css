@@ -1,5 +1,8 @@
 .lista {
-   margin-left: 120px;
+   margin-left: 240px;
+}
+.lista ul {
+   list-style-type: none;
 }
 .lista li {
   font-family: Arial;
