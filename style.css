@@ -1,8 +1,8 @@
 .pagina {
     position: fixed;
-    top: 80px;
-    left: 700px;
-    padding: 30px;
+    float: right;
+    top: 600px;
+    padding: 40px;
     background-color: red;
     font-size: 3em;
     color: white;
