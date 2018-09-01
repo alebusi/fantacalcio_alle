@@ -9,5 +9,5 @@ function myfunc(div) {
 }
 function pagedown() {
     var h = window.innerHeight;
-    window.scrollBy(0, h);
+    window.scrollBy(0, 500);
 }
