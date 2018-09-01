@@ -8,5 +8,6 @@ function myfunc(div) {
   }
 }
 function pagedown() {
-    window.scrollBy(0, window.innerHeight);
+    var h = window.innerHeight;
+    window.scrollBy(0, h);
 }
