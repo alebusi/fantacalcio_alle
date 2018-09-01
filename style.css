@@ -1,3 +1,14 @@
+.pagina {
+    position: fixed;
+    top: 80px;
+    left: 400px;
+    padding: 30px;
+    background-color: red;
+    font-size: 3em;
+    color: white;
+    font-family: Arial;
+}
+
 .freccia {
     position: fixed;
     top: 80px;
