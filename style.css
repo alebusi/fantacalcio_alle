@@ -1,7 +1,7 @@
 .pagina {
     position: fixed;
-    float: right;
-    top: 600px;
+    left: 90vw;
+    top: 40vh;
     padding: 40px;
     background-color: red;
     font-size: 3em;
