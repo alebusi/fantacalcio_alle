@@ -7,7 +7,7 @@ function myfunc(div) {
     div.className = "normale";
   }
 }
-function pagedown() {
-    var h = window.innerHeight;
+function pageDown() {
+    /*var h = window.innerHeight;*/
     window.scrollBy(0, 500);
 }
