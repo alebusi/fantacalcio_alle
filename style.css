@@ -2,7 +2,9 @@
     position: fixed;
     left: 90vw;
     top: 40vh;
-    padding: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    width: 10vw;
     background-color: red;
     font-size: 3em;
     color: white;
