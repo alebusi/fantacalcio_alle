@@ -13,7 +13,7 @@ function pageDown() {
 }
 var tess = [0, 0, 0];
 
-function contatore(ind) {
+function contatore(id,ind) {
   tess[ind]+=1;
   if (tess[ind]==10) {
     tess[ind]=0;
