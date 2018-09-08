@@ -57,6 +57,7 @@
     left: 0;
     width: 100vw;
     background-color: white;
+    border-top: solid 10px red;
     border-bottom: solid 10px red;
 }
 .risorsa {
