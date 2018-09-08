@@ -20,6 +20,6 @@ function contatore(id,ind) {
   }
   v=tess[ind];
   document.getElementById(id).innerHTML = v;
-  var aumenta = new Audio('aumenta.mp3');
+  var aumenta = new Audio('success.wav');
   aumenta.play();
 }
