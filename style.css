@@ -53,12 +53,12 @@
 }
 .barra {
     position: fixed;
-    top: 77vh;
+    top: 74vh;
     left: 0;
     width: 100vw;
     height: 400px;
     padding-left: 60px;
-    padding-top: 60px;
+    padding-top: 40px;
     background-color: white;
     border-top: solid 10px red;
     border-bottom: solid 10px red;
