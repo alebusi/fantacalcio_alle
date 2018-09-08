@@ -52,8 +52,8 @@
     background-color: yellow;
 }
 .barra {
-    position:fixed;
-    top: 80vh;
+    position: fixed;
+    top: 77vh;
     left: 0;
     width: 100vw;
     background-color: white;
@@ -62,7 +62,7 @@
 }
 .risorsa {
     padding: 30px;
-    font-size: 60px;
+    font-size: 90px;
     margin: 20px;
     background-color: #ffbf18;
 }
