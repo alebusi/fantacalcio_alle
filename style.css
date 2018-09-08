@@ -57,7 +57,8 @@
     left: 0;
     width: 100vw;
     height: 400px;
-    padding-left: 40px;
+    padding-left: 60px;
+    padding-top: 60px;
     background-color: white;
     border-top: solid 10px red;
     border-bottom: solid 10px red;
